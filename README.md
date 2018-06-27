@@ -2,7 +2,7 @@
 
 Final project for python data visualization 
 
-The final presentation is Netflix-visualization.pdf
+The final presentation is Capstone-Project-Netflix-Olayinka.pdf
 
 All figures generated end in .png
 
